@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building a React and Django-based web application with JWT authentication and advanced UI/UX features using Tailwind CSS and Framer Motion.<br><br>👯 I’m looking to collaborate on: Full-stack development projects, particularly those involving React, Django, and data science integration.<br><br>🤝 I’m looking for help with: Optimizing backend performance and integrating machine learning models into web applications.<br><br>🌱 I’m currently learning: Data science with a focus on Python, SQL, and mathematical concepts, while also enhancing my knowledge of Redux and JWT authentication.<br><br>💬 Ask me about: Full-stack development, transitioning from web development to data science, or anything related to React and Django.<br><br>⚡ Fun fact: I love blending creativity and technology—whether it's through animated UIs or impactful data-driven solutions!
+# 👋 About Me:
+Hi there!, I'm a passionate full-stack developer skilled in React, Next.js, Django, and Prisma. I specialize in building scalable web applications with modern tools, seamless UI/UX design, and a focus on performance.
+
+🌱 I’m currently exploring the exciting field of data science, honing my skills in Python, SQL, and machine learning. My goal is to blend web development with data science to create impactful, data-driven solutions.
+
+⚡ I enjoy experimenting with Tailwind CSS, Framer Motion, and innovative animations to bring ideas to life. I love turning complex challenges into elegant and efficient applications.
+
+💡 Let's collaborate! I’m always open to working on exciting full-stack or data-driven projects.
 
 
 ## 🌐 Socials:
