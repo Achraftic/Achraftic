@@ -1,4 +1,4 @@
-# Achraf Tichirra | [Portfolio](https://achraf-dev.vercel.app)
+# Achraf Tichirra | [Portfolio](https://achraftic.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/achraf-tichirra-92892b243)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/)
