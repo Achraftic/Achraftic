@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/achraf-tichirra-92892b243)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:achraftichirra3@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Chat-informational?style=flat&logo=whatsapp&logoColor=white&color=25D366)](https://wa.me/212771054446)
+
 
 <br>
 
