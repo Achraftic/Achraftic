@@ -24,7 +24,7 @@ I have worked on several projects, including:
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,react,nextjs,tailwind,laravel,java,nodejs,nestjs,flask,django,fastapi,spring,flutter,python,scikitlearn,pytorch,tensorflow,prisma,mysql,postgres,redis,mongodb,supabase,vscode,linux,docker)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,cpp,react,nextjs,tailwind,laravel,java,nodejs,nestjs,flask,django,fastapi,spring,flutter,python,scikitlearn,pytorch,tensorflow,prisma,mysql,postgres,redis,mongodb,supabase,linux,docker,hono,rabbitmq,nginx,kafka,gitlab,githubactions)](https://skillicons.dev)
 
 
 
